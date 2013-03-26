@@ -1,0 +1,10 @@
+{
+  "name": "respond_asset",
+  "version": "0.0.1",
+  "description": "A simple responder to assets",
+  "author": "Diogo Scudelletti <diogo@scudelletti.com>",
+  "devDependencies": {
+    "supertest": "0.5.x",
+    "mocha": "1.8.x"
+  }
+}
